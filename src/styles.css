@@ -1,0 +1,11 @@
+body {
+  font-family: "Chakra Petch", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  background: cornflowerblue;
+}
+
+h1,
+p {
+  text-align: center;
+}
